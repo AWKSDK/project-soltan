@@ -1,3 +1,4 @@
 membuat website
 membuat aplikasi android
+membuat skema alur aplikasi
 membuat aplikasi ios
